@@ -5,14 +5,14 @@
 O Move mouse é uma aplicação que tem como principal objetivo tornar os sites acessíveis para pessoas que tem algum tipo de deficiência motora e por isso não consegue mover o mouse com a mão ou com o pé. 
 O Objetivo dele é bem simples, com movimentos com a cabeça que são reconhecidos pela webCam, o usuário vai conseguir mover o mover o mouse e efetuar cliques.
 
-  - Inclinando a cabeça para cima o mouse vai para cima 
-  ![Alt text](http://8pixel.com.br/github/readme-imgs/Cima.png "Pessoa olhando para cima")
-  - Inclinando a cabeça para  baixo o mouse vai para baixo
-  ![Alt text](http://8pixel.com.br/github/readme-imgs/Baixo.png "Pessoa olhando para baixo")
-  - Inclinando a cabeça para a esquerda o mouse vai para esquerda
-  ![Alt text](http://8pixel.com.br/github/readme-imgs/Esquerda.png "Pessoa olhando para esquerda")
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Cima.png "Pessoa olhando para cima") <br />
+  - Inclinando a cabeça para cima o mouse vai para cima <br />
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Baixo.png "Pessoa olhando para baixo")<br />
+  - Inclinando a cabeça para  baixo o mouse vai para baixo<br />
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Esquerda.png "Pessoa olhando para esquerda")<br />
+  - Inclinando a cabeça para a esquerda o mouse vai para esquerda<br />
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Direita.png "Pessoa olhando para direita")<br />
   - Inclinando a cabeça para a direita o mouse vai para a direita
-  ![Alt text](http://8pixel.com.br/github/readme-imgs/Direita.png "Pessoa olhando para direita")
 
 
 ### Plugins
