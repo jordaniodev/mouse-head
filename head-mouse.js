@@ -117,7 +117,6 @@
 
             if(prediction[i].probability > 0.95){
 
-
  				var cursor = document.getElementById("cursor");  
  				var cursorTop = cursor.offsetTop;
  				var cursorTop = cursor.offsetLeft;

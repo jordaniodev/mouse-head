@@ -6,15 +6,13 @@ O Move mouse é uma aplicação que tem como principal objetivo tornar os sites 
 O Objetivo dele é bem simples, com movimentos com a cabeça que são reconhecidos pela webCam, o usuário vai conseguir mover o mover o mouse e efetuar cliques.
 
   - Inclinando a cabeça para cima o mouse vai para cima 
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Cima.png "Pessoa olhando para cima")
   - Inclinando a cabeça para  baixo o mouse vai para baixo
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Baixo.png "Pessoa olhando para baixo")
   - Inclinando a cabeça para a esquerda o mouse vai para esquerda
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Esquerda.png "Pessoa olhando para esquerda")
   - Inclinando a cabeça para a direita o mouse vai para a direita
-  
-# Como funciona
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
+  ![Alt text](http://8pixel.com.br/github/readme-imgs/Direita.png "Pessoa olhando para direita")
 
 
 ### Plugins
@@ -57,16 +55,15 @@ Para disparar o evento e começar a utilizar a biblioteca para mover o mouse, ba
 ### Demo
 Para ver em funcionamento [visite nossa página demo]
 
-### Desenvolvimento
+### Desenvolvimentor
 
 Esta aplicação ainda esta em desenvolvimento, então toda e qualquer ajuda é bem vinda.
 
 ### Todos
 
- - Realizar funcional com as personas corretas
- - Adicionar méodulo de controle de velocidade de mouse
- - Adicionar méodulo de controle de velocidade de mouse
- 
+ - Realizar teste funcional com as personas corretas
+ - Adicionar módulo de controle de velocidade de mouse
+ - Aprimorar sensores de movimento
 
 License
 ----
