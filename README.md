@@ -48,9 +48,6 @@ Para disparar o evento e começar a utilizar a biblioteca para mover o mouse, ba
 <button type="button" data-head-mouse>Começar</button>
 ```
 
-### Demo
-Para ver em funcionamento [visite nossa página demo]
-
 ### Desenvolvimentor
 
 Esta aplicação ainda esta em desenvolvimento, então toda e qualquer ajuda é bem vinda.
